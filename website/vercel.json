@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "name": "101ways-venomous-bite",
+  "routes": [
+    { "src": "/(.*)", "dest": "/index.html" }
+  ]
+}
